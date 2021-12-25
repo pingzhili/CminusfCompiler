@@ -1,0 +1,2242 @@
+[INFO] (cminusf_builder.cpp:28L  visit)Visiting ASTProgram.
+
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x55def6755100
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x55def675dbf0
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:x
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:y
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:temp
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:28L  visit)Visiting ASTProgram.
+
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x561ce8949ef0
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x561ce894f010
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x561ce8951460
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x561ce8955c20
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:217L  visit)Visiting ASTParam
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:i
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:j
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:k
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:varone
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:maxr
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:col
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:temp
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:299L  visit)Visiting ASTSelectionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:409L  visit)Visiting ASTReturnStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[DEBUG] (cminusf_builder.cpp:434L  visit)ret:0x561ce8a277d0
+[INFO] (cminusf_builder.cpp:132L  visit)Visiting ASTFunDeclaration
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:90L  visit)[VarDeclaration] node.id is:num
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:94L  visit)[VarDeclaration] node.id is:vars
+[DEBUG] (cminusf_builder.cpp:95L  visit)[VarDeclaration] node.num is:0x561ce8999bc0
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:64L  visit)Visiting ASTVarDeclaration.
+
+[DEBUG] (cminusf_builder.cpp:94L  visit)[VarDeclaration] node.id is:equ
+[DEBUG] (cminusf_builder.cpp:95L  visit)[VarDeclaration] node.num is:0x561ce8999c40
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:367L  visit)Visiting ASTIterationStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:250L  visit)Visiting ASTCompoundStmt
+
+[WARNING] (cminusf_builder.cpp:263L  visit)There is an empty CompoundStmt declaration.
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:880L  visit)Visiting ASTCall
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:282L  visit)Visiting ASTExpressionStmt
+
+[INFO] (cminusf_builder.cpp:540L  visit)Visiting ASTAssignExpression
+
+[INFO] (cminusf_builder.cpp:565L  visit)Visiting ASTSimpleExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:671L  visit)Visiting ASTAdditiveExpression
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+
+[INFO] (cminusf_builder.cpp:776L  visit)Visiting ASTTerm
+
+[INFO] (cminusf_builder.cpp:45L  visit)Visiting ASTNum.
+
+[INFO] (cminusf_builder.cpp:447L  visit)Visiting ASTVar
+

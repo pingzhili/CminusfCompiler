@@ -1,0 +1,12 @@
+digraph G {
+	label43 [color=red];
+	label43->label48;
+	label52->label57;
+	label52->label62;
+	label57->label65;
+	label57->label68;
+	label65->label68;
+	label68->label52;
+	label62->label43;
+	label48->label52;
+}
